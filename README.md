@@ -16,15 +16,12 @@ It is necessary to execute the scripts located in: MIGRATION > Scripts.
 
 Note: It is extremely important to execute the scripts in order, otherwise there will be errors in the database.
 
-Note: It may be necessary to adjust the script configuration
 
-**Step 1: Properties**
+### Extra
+Maybe is necessary change "build action" in scripts. To run correctly it's necessary put: Embedded resourse
 
-![image](https://github.com/heberGustavo/C-Sharp/assets/44476616/51768dfb-d6d3-4e7b-9ad4-337fc0c01ac0)
+Solution > 4-Migration > Scripts > All scripts
 
-
-**Step 2: Embedded resource**
-
-![image](https://github.com/heberGustavo/C-Sharp/assets/44476616/41bdd0f9-53e7-458e-8280-ea3701eaf1d3)
+![image](https://github.com/heberGustavo/api-gerenciamento-de-produtos/assets/44476616/1d3fd564-6839-48c1-9af9-741e4219d97d)
 
 I hope everything goes perfectly, if there are any questions or errors, please contact me via Linkedin (link in Bio).
