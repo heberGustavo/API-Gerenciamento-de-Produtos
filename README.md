@@ -4,7 +4,7 @@
 This is a Web API project using .NET, where the objective is for the user to manage the products.
 
 ### Endpoints:
-![image](https://github.com/heberGustavo/C-Sharp/assets/44476616/7da9fa67-9e91-492d-8d17-c22b2bff3d7a)
+![image](https://github.com/heberGustavo/api-gerenciamento-de-produtos/assets/44476616/1bc3e1b1-2c6b-433b-956a-d87bdf30ecaf)
 
 ### Connection String
 
